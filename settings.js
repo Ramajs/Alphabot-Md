@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'flh65YEI',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -26,18 +26,18 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
+global.botname = "BotzRam - MD²" //namabot kalian
+global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙝𝙚" //nama kalian
+global.myweb ="https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
+global.myweb2 = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
-global.owner = ["6285342106390","622150996855"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
-global.ownernomerr = "+62887435047326" //nmr wa kalian
+global.premium = ['6285791220179'] //premium user
+global.owner = ["6285791220179","6285806240904"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285791220179" // nomor wa kalian
+global.ownernomerr = "+6285791220179" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
