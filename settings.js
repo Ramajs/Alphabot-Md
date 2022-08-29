@@ -4,12 +4,12 @@ const  { indonesia, english, spanyol} = require(`./language`)
 
 // Website Api
 global.APIs = {
-	alfa: 'https://api.lolhuman.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
 }
 
 // Free apikey
 global.APIKeys = {
-	'https://api.lolhuman.xyz': '7544e95ba2deaffc7a2f9d83',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'flh65YEI',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
