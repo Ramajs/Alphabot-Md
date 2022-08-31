@@ -9,7 +9,7 @@ global.APIs = {
 
 // Free apikey
 global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+	'https://api.zeeoneofc.xyz': 'flh65YEI',  // login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
 }
 
 // setting 
@@ -26,9 +26,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "𝘽𝙤𝙩𝙯𝙍𝙖𝙢 - 𝙈𝘿" //namabot kalian
 global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙚𝙝💤" //nama kalian
-global.myweb ="https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
-global.youtube = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas asal jan hapus
-global.github = "https://chat.whatsapp.com/FxhPGFS8ZhL9E4nhk1X7Rg" //bebas
+global.myweb ="https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
+global.youtube = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
+global.github = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
