@@ -16,7 +16,7 @@ global.APIKeys = {
 global.autoread = false // auto read message
 global.autobio = true 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -26,7 +26,7 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "BotzRam - MD²" //namabot kalian
+global.botname = "Ramaa BotZz - MD" //namabot kalian
 global.ownername= "•𝙍𝙖𝙢𝙖𝙖` 𝙆𝙚𝙩𝙘𝙝𝙚" //nama kalian
 global.myweb ="https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UCD0S2id8d7gbQHDKIpxlPDA" //bebas asal jan hapus
